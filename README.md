@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fatima201900571
+- 👋 Hi, I’m @fatima maarouf
 - 👀 I’m interested in my work field
 - 🌱 I’m currently learning at LAU computer science
-- 💞️ I’m looking to collaborate on prigramming chances
+- 💞️ I’m looking to collaborate on programming chances
 - 📫 How to reach me fatimaalzahraa.maarouf@lau.edu
 
 <!---
